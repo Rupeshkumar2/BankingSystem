@@ -132,7 +132,7 @@ public class Main {
         Bank bank = new Bank();
         Scanner scanner = new Scanner(System.in);
         Account account;
-
+        System.out.println("i love you");
         while (true) {
             System.out.println("\n***Banking System***");
             System.out.println("1. Open an Account");
@@ -204,6 +204,7 @@ public class Main {
                 default:
                     System.out.println("Enter correct choice.");
                     break;
+
             }
         }
     }
