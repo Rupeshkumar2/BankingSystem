@@ -1,0 +1,1 @@
+This project is a banking system built using object-oriented programming principles, enabling functionalities like account creation, deposits, withdrawals, and balance inquiries. It demonstrates key OOP concepts such as inheritance, encapsulation, and polymorphism to model real-world banking operations efficiently.
